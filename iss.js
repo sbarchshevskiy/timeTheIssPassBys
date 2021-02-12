@@ -104,7 +104,7 @@ const nextISSTimesForMyLocation = function(callback) {
               }
               callback(null, flyByData);
           
-              console.log(`IP: ${ip}, coordinates: ${coordData}, flyBy: ${flyByData}`);
+             
             }
           });
         }
